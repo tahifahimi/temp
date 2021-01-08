@@ -1,6 +1,6 @@
 import random
 
-SIZE = 50
+SIZE = 20
 RANGE = 5
 
 
